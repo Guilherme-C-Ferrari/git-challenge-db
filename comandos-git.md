@@ -8,7 +8,7 @@
 
 Esse arquivo contém conflitos. Primeiro, ajuste o que está conflitando. Agora após correção, ajuste o caminho da imagem abaixo. Altere o nome da imagem para meme_programer
 
-![alt text](60fdc460429b8-1415386982.jpeg)
+![alt text](assets/meme_programer.jpeg)
 
 ### Comandos GIT em treinamento
 
